@@ -28,6 +28,7 @@ Visual tracking of targets met and missed
 Region-wise and Executive-wise filtering capabilities
 
 ## 📂 ScreenShot of Dashboard
+![Screenshot (14)](https://github.com/user-attachments/assets/d0ce95f4-1f22-4055-a054-39e539c48bae)
 
 
 ## 🚀 Skills Enhanced
